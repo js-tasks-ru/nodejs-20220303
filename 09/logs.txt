@@ -1,0 +1,16 @@
+lala
+lala
+lala
+lala
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-02-25T17:29:23.132Z"}
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-02-25T17:29:23.132Z"}
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-02-25T17:29:23.132Z"}
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-02-25T17:29:23.132Z"}
+lala
+lala
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-02-25T17:36:05.539Z"}
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-02-25T17:36:05.539Z"}
+lala
+lala
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-02-25T17:36:06.248Z"}
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-02-25T17:36:06.248Z"}
